@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declartion [sic] of the heads of severall letters, sent from the committee at York, unto the House of Parliament: relating all the chiefe passages and proceedings at York and Hull, the last weeke. Likewise, a letter from Sir John Hotham to the House of Commons, concerning a dangerous plot against the town of Hull, and how it was discovered. With the names of those lords that came to the King from the Parliament. Also His Majesties proclamation to the sheriffes of severall counties.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82164</idno>
+            <idno type="STC">Wing D686</idno>
+            <idno type="STC">Thomason E149_17</idno>
+            <idno type="STC">ESTC R1004</idno>
+            <idno type="EEBO-CITATION">99858789</idno>
+            <idno type="PROQUEST">99858789</idno>
+            <idno type="VID">156725</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82164)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156725)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E149[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declartion [sic] of the heads of severall letters, sent from the committee at York, unto the House of Parliament: relating all the chiefe passages and proceedings at York and Hull, the last weeke. Likewise, a letter from Sir John Hotham to the House of Commons, concerning a dangerous plot against the town of Hull, and how it was discovered. With the names of those lords that came to the King from the Parliament. Also His Majesties proclamation to the sheriffes of severall counties.</title>
+                  <author>Hotham, John, Sir, d. 1645 Jan. 2.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June 3. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Variant: with title page and A3v partly in a different setting, and A4 in a completely different setting. On the title page, the words "With the names .. counties." are replaced with "With two orders made by both Houses of Parliament: June 2. 1642. H. Elsynge Cler. Parl. D.C.". A4 bears the two orders of Parliament rather than the King's proclamation.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>York (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Hull (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156725:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 5 -->
+            <p>A DECLARTION OF THE HEADS OF SEVERALL LETTERS, SENT FROM THE COMMITTEE at YORK, UNTO THE HOVSE OF PARLIAMENT: RELATING All the Chiefe Paſſages and Procee<g ref="char:EOLhyphen"/>dings at YORK and HULL, the laſt WEEKE.</p>
+            <p>Likewiſe, a Letter from Sir <hi>John Hotham</hi> to the Houſe of Commons, concerning a dange<g ref="char:EOLhyphen"/>rous Plot againſt the Town of Hull, and how it was diſcovered.</p>
+            <p>With the Names of thoſe Lords that came to the King from the Parliament.</p>
+            <p>Alſo his Majeſties Proclamation to the Sheriffes of ſeverall Counties.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>I. T.</hi> June 3. 1642</p>
+         </div>
+      </front>
+      <body>
+         <div type="summary_of_letters">
+            <pb facs="tcp:156725:2"/>
+            <!-- PDF PAGE 6 -->
+            <pb facs="tcp:156725:2"/>
+            <!-- PDF PAGE 6 -->
+            <head>A Letter ſent from the Committees at York, to the Houſe of Parliament, dated <date>the 25 of May, 1642.</date>
+            </head>
+            <p>WHerein they decl<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red, That betweene one or two hundred Horſe appeared before his Majeſty on Thurſday laſt, being the 27 of <hi>May;</hi> out of which he choſe fifty to attend his Per<g ref="char:EOLhyphen"/>ſon, and diſmiſſed the reſt. There alſo appeared ſix hundred Foot, but they were all of Sir <hi>Robert Strick<g ref="char:EOLhyphen"/>lands</hi> Regiment: they likewiſe were diſmiſſed.</p>
+            <p>In the <hi>Letter</hi> ſent from the Committee, there was a Paper from the High Sheriffe of Yorke, wherein he ſhewed, That he had received a Warrant and Charge from His Majeſty, to forbeare the putting in Execu<g ref="char:EOLhyphen"/>tion the Order of Parliament concerning the <hi>Mili<g ref="char:EOLhyphen"/>tia;</hi> and that he returned this anſwer, That to the beſt that poſſibly he could, he would apply himſelfe to do faithfull ſervice, according to his Oath, both to King and Parliament.</p>
+            <p>The King hath appointed, That on Fryday next, Horſe and Foot appeare again before Him.</p>
+            <p>Captain <hi>Dunkin,</hi> was reported in the Houſe to be at York, a very ſtirring Man in all the matters of the King, concerning the Parliament.</p>
+            <p>
+               <hi>May</hi> the 26. a Report was made to the Houſe, That the Lord Keeper was ſuddenly gone away from <hi>London,</hi> and that it was thought to York to the King, and that he carried the broad Seale with him. There<g ref="char:EOLhyphen"/>upon,
+<pb facs="tcp:156725:3"/>
+               <!-- PDF PAGE 7 -->the Houſe appointed Meſſengers to goe in Poſt after him, and if they could overtake him, to bring him back again.</p>
+            <p>There was alſo another report made from Sir <hi>John Hotham,</hi> that the Ships wherein the Ordinance and Ammunition that was brought out of the Tower of <hi>London</hi> to <hi>Hull,</hi> was Shipped; were vnder ſaile and gone out of the River; withall, that Sir <hi>John Hotham</hi> deſired that more Committees might be ſent to <hi>Hull,</hi> becauſe thoſe that were there laſt being gone, the whole burthen lay upon him only and his Sonne? which was too heavy for them to beare. That alſo he deſired 6. Canoneers, &amp; one Engineere to be ſent that if ſo be the Caſtle ſhould be beſeiged, they might have ſome that had skill to uſe the Ordinance that are there, that they might the better defend the place; al<g ref="char:EOLhyphen"/>ſo he deſired Money to pay the Souldiers that were there, and that allowance might be given for keeping Horſes to ſend out for Scouts from time to time, and in particular he deſired Sir <hi>John Meldron</hi> by name to be ſent thither as a Committee.</p>
+            <p>
+               <hi>May</hi> the 26. a Letter came from <hi>Yorke,</hi> dated the 24. of <hi>May,</hi> which did ſignifie that the meeting of that County appointed by his Majeſtie, is put off till the third of <hi>June,</hi> and the Meſſenger who brought the letter from the Committees who came from <hi>York</hi> hither in 24. houres, relates a dangerous Plot againſt <hi>Hull,</hi> which was this; one that got into the Towne ha<g ref="char:EOLhyphen"/>ving put himſelfe into the Habit of a Souldier, did ſolicite divers Souldiers to ſtand for the King, and promiſed them, that they ſhould have ſuch and ſuch rewards: and in particular he ſignified, that
+<pb facs="tcp:156725:3"/>
+               <!-- PDF PAGE 7 -->on the 27 of <hi>May,</hi> two Lords would be at the back<g ref="char:EOLhyphen"/>ſide of the Towne with ſome Souldiers, ready to en<g ref="char:EOLhyphen"/>ter at a Poſtern gate, if it might be opened unto them: he prevailed with many, but before the time came, the Plot was diſcovered, and ſo diſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppointed.</p>
+            <p>The ſame Meſſenger declared, That he met the Lord Keeper at York on <hi>Tueſday</hi> night, and that ſun<g ref="char:EOLhyphen"/>dry other Lords were come to the King; as namely, the Earle of Salisbury, the Earle of Northampton, the Earle of Southamhton, the Earle of Davonſhire, the Lord of Dover, the Lord Coventry, the Lord Capell, and others.</p>
+            <p>There was a Relation made to the Houſe, that Sir <hi>Thomas Littleton,</hi> had ſent three pieces of Ordinance to his Houſe; which paſſing by Alisbury at the time of the Faſt, were notwithſtanding, there ſtaied by the Conſtable, and the Cart that brought them ſent a<g ref="char:EOLhyphen"/>way, the Ordinance being there detained. And an Order was made, to prevent Ammunition from go<g ref="char:EOLhyphen"/>ing to York.</p>
+            <p>Another Letter from Sir <hi>John Hotham</hi> was read, which punctually declared the Plot againſt Hull, which was thus, one <hi>Becket,</hi> whoſe Daughter was married to <hi>Foots</hi> a Souldier, ſent for the ſaid <hi>Foots</hi> his Sonne in Law, and offered him a very large re<g ref="char:EOLhyphen"/>ward, if ſo be be would betray Hull: <hi>Foots</hi> diſcovered the matter to Sir <hi>John Hotham,</hi> who adviſed him to hearken unto <hi>Becket,</hi> and ſo he did, accepting the con<g ref="char:EOLhyphen"/>ditions; but propounding means for the performance thereof, he giving him ſatisfaction thereabouts; <hi>Foots</hi> willed him, to declare what it was that he expected from him? <hi>Becket</hi> anſwered, to let in ſome Lords
+<pb facs="tcp:156725:4"/>
+               <!-- PDF PAGE 8 -->with their Troups at a back dore, which particular project <hi>Foots</hi> Related to Sir <hi>John Hotham.</hi>
+            </p>
+            <p>Sir <hi>John Hotham</hi> wrote to His Majeſty a Letter, wherein he gave him notice of the ſeverall particu<g ref="char:EOLhyphen"/>lars, and that it was diſcovered, and humbly intreated His Majeſty, that care might be taken thereabouts, leaſt dammage and diſhonour might accrue to His Majeſty.</p>
+            <p>The Letter which <hi>Beckett</hi> ſent to <hi>Foots</hi> is ſent to the Parliament, who have ſent for the ſaid <hi>Beckett</hi> as a Delinquent.</p>
+            <p>A Letter from the Major of <hi>Beverly</hi> to Sir <hi>Iohn Hotham</hi> was read, which certifieth the care and dili<g ref="char:EOLhyphen"/>gence of the Major in maintainning a Watch, and thereby they obſerved ſundry comeing in at unſeaſon<g ref="char:EOLhyphen"/>able houres, and amongſt others ſome Recuſants.</p>
+            <p>Sir <hi>William Strickeland,</hi> is one of the new Com<g ref="char:EOLhyphen"/>mittees appointed to goe to <hi>Hull,</hi> and Inſtructions for the Committees were ſent with him. A Letter was ſent to the Speaker from Sir <hi>Frincis Worthley</hi> and o<g ref="char:EOLhyphen"/>thers, which the Speaker makeing knowne to the Houſe, and asking whether he ſhould reade it, it was refuſed by the whole Houſe to be read, becauſe they were Delinquents. Committees alſo were ſent to <hi>Lincolneſhire</hi> with Inſtructions to looke well to that County.</p>
+            <p>An information was brought to the Houſe of Com<g ref="char:EOLhyphen"/>mons of 2. Cart-loads of great Saddles that were car<g ref="char:EOLhyphen"/>ried to the Water-ſide to be Shipped for <hi>Yorke.</hi>
+            </p>
+         </div>
+         <div type="royal_proclamation">
+            <pb facs="tcp:156725:4"/>
+            <!-- PDF PAGE 8 -->
+            <head>A PROCLAMATION BY THE KING.</head>
+            <p>OVr will and pleaſure is, That the Miniſters, Freeholders, Farmers, and ſubſtantiall Co<g ref="char:EOLhyphen"/>py-holders of this our county of YORK, doe Aſſemble and meete together at HEWORTH MOOR, neer Our City of YORK, upon Friday in Whitſon week according to former ſummons by nine of the clock in the Morning. For that we are informed there are divers Fayrs to be keep in this Our County the day following, at which time many of them may have neceſſary occaſions to be ab<g ref="char:EOLhyphen"/>ſent: and therefore, out of Our tender<g ref="char:EOLhyphen"/>neſſe and care of Our good Subjects,
+<pb facs="tcp:156725:5"/>
+               <!-- PDF PAGE 9 -->We have thought fit to give this early notice, to the end the ſaid Inhabitants may be put to as little prejudice as may be. And this Our pleaſure We require to be forth with Printed, And Copies thereof to be ſpeedily publiſhed and diſ<g ref="char:EOLhyphen"/>perſed by the SHERIFF of this County: For which this ſhall be ſufficient War<g ref="char:EOLhyphen"/>rant.</p>
+            <closer>
+               <dateline>Given at Our Court at YORK.</dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
